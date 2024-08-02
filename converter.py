@@ -19,7 +19,7 @@ if video_path:
     audio = video.audio
     
     # CD para salvar o arquivo MP3
-    output_path = "euamoroblox.mp3"
+    output_path = "audio.mp3"
     
     # Salvar o áudio como MP3
     audio.write_audiofile(output_path)
